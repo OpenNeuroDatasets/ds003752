@@ -1,0 +1,14 @@
+{
+    "Acknowledgements": "",
+    "Authors": ["michael barnett",
+                "geoffrey aguirre",
+                "david brainard"],
+    "BIDSVersion": "1.0.2",
+    "DatasetDOI": "",
+    "Funding": [],
+    "HowToAcknowledge": "",
+    "License": "",
+    "Name": "LFContrast",
+    "ReferencesAndLinks": [],
+    "template": "project"
+}
